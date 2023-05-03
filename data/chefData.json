@@ -189,7 +189,71 @@
       }
     ]
   },
- 
+  {
+    "id": 4,
+    "chefName": "Harry James",
+    "experienceYears": 12,
+    "recipeCount": 85,
+    "likes": 8000,
+    "shortDescription": "Jane Smith is an award-winning chef who has been specializing in Italian cuisine for the past 15 years. She has worked at several top restaurants in Italy and the United States, and has gained a reputation for her exceptional dishes that showcase the flavors and traditions of Italy. Jane is particularly skilled at making handmade pasta, and is known for her classic spaghetti carbonara and lasagna recipes. Her passion for Italian cuisine shines through in her cooking, and she is committed to using only the freshest, highest-quality ingredients in all of her dishes. With 50 recipes under her belt and 10,000 likes from her loyal followers, Jane continues to inspire and delight food lovers around the world.",
+    "pictureUrl": "https://i.ibb.co/SXLr06R/1.jpg",
+    "recipes": [
+      {
+        "recipeName": "Pesto Pasta",
+        "recipePictureUrl": "https://i.ibb.co/k5HgVbn/4.jpg",
+        "description": "A delicious and easy pasta dish with homemade pesto sauce, cherry tomatoes, and parmesan cheese.",
+        "rating": 4.5,
+        "ingredients": [
+          "1 lb. linguine",
+          "2 cups fresh basil leaves",
+          "1/2 cup grated parmesan cheese",
+          "1/2 cup pine nuts",
+          "3 cloves garlic, minced",
+          "1/2 cup olive oil",
+          "1 pint cherry tomatoes, halved",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "recipeName": "Taco Salad",
+        "recipePictureUrl": "https://i.ibb.co/wrSQN95/5.jpg",
+        "description": "A healthy and delicious salad with ground beef, avocado, tomatoes, and corn chips.",
+        "rating": 4.2,
+        "ingredients": [
+          "1 lb. ground beef",
+          "1 packet taco seasoning",
+          "1 head lettuce, chopped",
+          "1 pint cherry tomatoes, halved",
+          "1/2 cup corn chips, crushed",
+          "1 avocado, diced",
+          "1/2 cup shredded cheddar cheese",
+          "1/4 cup chopped fresh cilantro",
+          "1/4 cup sour cream"
+        ]
+      },
+      {
+        "recipeName": "Chicken Stir Fry",
+        "recipePictureUrl": "https://i.ibb.co/dM9gRyR/6.jpg",
+        "description": "A quick and easy stir fry with chicken, vegetables, and a sweet and tangy sauce.",
+        "rating": 4.8,
+        "ingredients": [
+          "1 lb. boneless, skinless chicken breasts, sliced",
+          "1 tbsp. cornstarch",
+          "1 tbsp. soy sauce",
+          "1 tbsp. sesame oil",
+          "2 tbsp. vegetable oil",
+          "2 cloves garlic, minced",
+          "1 inch piece ginger, minced",
+          "1 red bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "1 cup broccoli florets",
+          "1/2 cup hoisin sauce",
+          "2 tbsp. rice vinegar",
+          "2 tbsp. honey"
+        ]
+      }
+    ]
+  },
   {
     "id": 5,
     "chefName": "Joe Goldberg",

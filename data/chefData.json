@@ -288,7 +288,7 @@
         "description": "A healthy and flavorful dish with grilled salmon, asparagus, and lemon.",
         "rating": 4.9,
         "ingredients": [
-          "4 salmon fillets",
+          "5 salmon fillets",
           "1 lb. asparagus",
           "2 lemons, sliced",
           "2 cloves garlic, minced",
@@ -297,7 +297,7 @@
         ]
       },
       {
-        "recipeName": "Beef Stir Fry",
+        "recipeName": "Beef Stir Fried Rice",
         "recipePictureUrl": "https://i.ibb.co/XJdbPTH/3.jpg",
         "description": "A quick and easy stir fry with beef, vegetables, and a savory sauce.",
         "rating": 4.5,

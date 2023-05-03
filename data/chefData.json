@@ -1,0 +1,387 @@
+[
+{
+    "id": 1,
+    "chefName": "John Smith",
+    "experienceYears": 10,
+    "recipeCount": 50,
+    "likes": 5000,
+    "shortDescription": "Jane Smith is an award-winning chef who has been specializing in Italian cuisine for the past 15 years. She has worked at several top restaurants in Italy and the United States, and has gained a reputation for her exceptional dishes that showcase the flavors and traditions of Italy. Jane is particularly skilled at making handmade pasta, and is known for her classic spaghetti carbonara and lasagna recipes. Her passion for Italian cuisine shines through in her cooking, and she is committed to using only the freshest, highest-quality ingredients in all of her dishes. With 50 recipes under her belt and 10,000 likes from her loyal followers, Jane continues to inspire and delight food lovers around the world.",
+    "pictureUrl": "https://i.ibb.co/SXLr06R/1.jpg",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Carbonara",
+        "recipePictureUrl": "https://i.ibb.co/TYxvXcp/1.jpg",
+        "description": "A classic Italian dish made with spaghetti, bacon, eggs, and Parmesan cheese.",
+        "rating": 4.5,
+        "ingredients": [
+          "1 pound spaghetti",
+          "8 ounces bacon, chopped",
+          "4 large eggs",
+          "1 cup grated Parmesan cheese",
+          "Salt and black pepper"
+        ]
+      },
+      {
+        "recipeName": "Beef Bourguignon",
+        "recipePictureUrl": "https://i.ibb.co/sJMJncj/2.jpg",
+        "description": "A hearty French stew made with beef, red wine, vegetables, and herbs.",
+        "rating": 4.8,
+        "ingredients": [
+          "2 pounds beef chuck, cut into cubes",
+          "1 bottle red wine",
+          "4 carrots, peeled and chopped",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "3 tablespoons tomato paste",
+          "2 tablespoons flour",
+          "1 tablespoon thyme",
+          "1 bay leaf",
+          "Salt and black pepper"
+        ]
+      },
+      {
+        "recipeName": "Chocolate Cake",
+        "recipePictureUrl": "https://i.ibb.co/XJdbPTH/3.jpg",
+        "description": "A decadent dessert made with cocoa powder, sugar, eggs, and butter.",
+        "rating": 4.9,
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "3/4 cup unsweetened cocoa powder",
+          "2 cups granulated sugar",
+          "2 teaspoons baking soda",
+          "1 teaspoon baking powder",
+          "1 teaspoon salt",
+          "1 cup buttermilk",
+          "1/2 cup vegetable oil",
+          "2 large eggs",
+          "2 teaspoons vanilla extract",
+          "1 cup boiling water"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefName": "Maria Rodriguez",
+    "experienceYears": 15,
+    "recipeCount": 100,
+    "likes": 10000,
+    "shortDescription": "Jane Smith is an award-winning chef who has been specializing in Italian cuisine for the past 15 years. She has worked at several top restaurants in Italy and the United States, and has gained a reputation for her exceptional dishes that showcase the flavors and traditions of Italy. Jane is particularly skilled at making handmade pasta, and is known for her classic spaghetti carbonara and lasagna recipes. Her passion for Italian cuisine shines through in her cooking, and she is committed to using only the freshest, highest-quality ingredients in all of her dishes. With 50 recipes under her belt and 10,000 likes from her loyal followers, Jane continues to inspire and delight food lovers around the world.",
+    "pictureUrl": "https://i.ibb.co/Tq4SHTY/3.jpg",
+    "recipes": [
+      {
+        "recipeName": "Taco Salad",
+        "recipePictureUrl": "https://i.ibb.co/k5HgVbn/4.jpg",
+        "description": "A refreshing and satisfying salad made with ground beef, lettuce, tomatoes, cheese, and tortilla chips.",
+        "rating": 4.7,
+        "ingredients": [
+          "1 pound ground beef",
+          "1 head iceberg lettuce, chopped",
+          "2 tomatoes, diced",
+          "1 cup shredded cheddar cheese",
+          "1/2 cup diced onion",
+          "1/2 cup salsa",
+          "1/2 cup sour cream",
+          "1/2 cup crushed tortilla chips",
+          "Salt and black pepper"
+        ]
+      },
+      {
+        "recipeName": "Beef Stir-Fry",
+        "recipePictureUrl": "https://i.ibb.co/dM9gRyR/6.jpg",
+        "description": "A quick and easy stir-fry made with beef, vegetables, and a flavorful sauce.",
+        "rating": 4.5,
+        "ingredients": [
+          "1 pound flank steak, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 onion, sliced",
+          "2 garlic cloves, minced",
+          "1 tablespoon cornstarch",
+          "1/4 cup soy sauce",
+          "1/4 cup beef broth",
+          "1 tablespoon honey",
+          "1 teaspoon sesame oil",
+          "1/4 teaspoon red pepper flakes"
+        ]
+      },
+      {
+        "recipeName": "Banana Bread",
+        "recipePictureUrl": "https://i.ibb.co/wrSQN95/5.jpg",
+        "description": "A moist and flavorful bread made with ripe bananas, sugar, flour, and a few other pantry staples.",
+        "rating": 4.9,
+        "ingredients": [
+          "3 ripe bananas, mashed",
+          "1/2 cup unsalted butter, melted",
+          "1 cup granulated sugar",
+          "1 egg, beaten",
+          "1 teaspoon vanilla extract",
+          "1 teaspoon baking soda",
+          "Pinch of salt",
+          "1 1/2 cups all-purpose flour"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefName": "Juan Perez",
+    "experienceYears": 20,
+    "recipeCount": 200,
+    "likes": 15000,
+    "shortDescription": "Jane Smith is an award-winning chef who has been specializing in Italian cuisine for the past 15 years. She has worked at several top restaurants in Italy and the United States, and has gained a reputation for her exceptional dishes that showcase the flavors and traditions of Italy. Jane is particularly skilled at making handmade pasta, and is known for her classic spaghetti carbonara and lasagna recipes. Her passion for Italian cuisine shines through in her cooking, and she is committed to using only the freshest, highest-quality ingredients in all of her dishes. With 50 recipes under her belt and 10,000 likes from her loyal followers, Jane continues to inspire and delight food lovers around the world.",
+    "pictureUrl": "https://i.ibb.co/TM61242/4.jpg",
+    "recipes": [
+      {
+        "recipeName": "Grilled Steak",
+        "recipePictureUrl": "https://i.ibb.co/TYxvXcp/1.jpg",
+        "description": "A delicious and easy grilled steak recipe with a simple garlic and herb marinade.",
+        "rating": 4.8,
+        "ingredients": [
+          "2 lbs. flank steak",
+          "1/4 cup olive oil",
+          "2 tbsp. balsamic vinegar",
+          "2 tbsp. Worcestershire sauce",
+          "1 tbsp. Dijon mustard",
+          "3 cloves garlic, minced",
+          "2 tbsp. fresh parsley, chopped",
+          "1 tbsp. fresh thyme, chopped",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "recipeName": "Shrimp Scampi",
+        "recipePictureUrl": "https://i.ibb.co/sJMJncj/2.jpg",
+        "description": "A classic shrimp scampi recipe with garlic, lemon, white wine, and butter. Perfect over pasta!",
+        "rating": 4.7,
+        "ingredients": [
+          "1 lb. large shrimp, peeled and deveined",
+          "1/4 cup unsalted butter",
+          "4 cloves garlic, minced",
+          "1/2 cup white wine",
+          "1/4 cup fresh lemon juice",
+          "1/4 cup fresh parsley, chopped",
+          "1/4 tsp. red pepper flakes",
+          "Salt and pepper",
+          "8 oz. linguine, cooked according to package instructions"
+        ]
+      },
+      {
+        "recipeName": "Chocolate Cake",
+        "recipePictureUrl": "https://i.ibb.co/XJdbPTH/3.jpg",
+        "description": "A rich and decadent chocolate cake recipe with a chocolate ganache frosting.",
+        "rating": 4.9,
+        "ingredients": [
+          "1 3/4 cups all-purpose flour",
+          "2 cups granulated sugar",
+          "3/4 cup unsweetened cocoa powder",
+          "2 tsp. baking soda",
+          "1 tsp. baking powder",
+          "1 tsp. salt",
+          "1 cup buttermilk",
+          "1/2 cup vegetable oil",
+          "2 large eggs",
+          "2 tsp. vanilla extract",
+          "1 cup boiling water",
+          "8 oz. semisweet chocolate, chopped",
+          "1/2 cup heavy cream"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefName": "Harry James",
+    "experienceYears": 12,
+    "recipeCount": 85,
+    "likes": 8000,
+    "shortDescription": "Jane Smith is an award-winning chef who has been specializing in Italian cuisine for the past 15 years. She has worked at several top restaurants in Italy and the United States, and has gained a reputation for her exceptional dishes that showcase the flavors and traditions of Italy. Jane is particularly skilled at making handmade pasta, and is known for her classic spaghetti carbonara and lasagna recipes. Her passion for Italian cuisine shines through in her cooking, and she is committed to using only the freshest, highest-quality ingredients in all of her dishes. With 50 recipes under her belt and 10,000 likes from her loyal followers, Jane continues to inspire and delight food lovers around the world.",
+    "pictureUrl": "https://i.ibb.co/SXLr06R/1.jpg",
+    "recipes": [
+      {
+        "recipeName": "Pesto Pasta",
+        "recipePictureUrl": "https://i.ibb.co/k5HgVbn/4.jpg",
+        "description": "A delicious and easy pasta dish with homemade pesto sauce, cherry tomatoes, and parmesan cheese.",
+        "rating": 4.5,
+        "ingredients": [
+          "1 lb. linguine",
+          "2 cups fresh basil leaves",
+          "1/2 cup grated parmesan cheese",
+          "1/2 cup pine nuts",
+          "3 cloves garlic, minced",
+          "1/2 cup olive oil",
+          "1 pint cherry tomatoes, halved",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "recipeName": "Taco Salad",
+        "recipePictureUrl": "https://i.ibb.co/wrSQN95/5.jpg",
+        "description": "A healthy and delicious salad with ground beef, avocado, tomatoes, and corn chips.",
+        "rating": 4.2,
+        "ingredients": [
+          "1 lb. ground beef",
+          "1 packet taco seasoning",
+          "1 head lettuce, chopped",
+          "1 pint cherry tomatoes, halved",
+          "1/2 cup corn chips, crushed",
+          "1 avocado, diced",
+          "1/2 cup shredded cheddar cheese",
+          "1/4 cup chopped fresh cilantro",
+          "1/4 cup sour cream"
+        ]
+      },
+      {
+        "recipeName": "Chicken Stir Fry",
+        "recipePictureUrl": "https://i.ibb.co/dM9gRyR/6.jpg",
+        "description": "A quick and easy stir fry with chicken, vegetables, and a sweet and tangy sauce.",
+        "rating": 4.8,
+        "ingredients": [
+          "1 lb. boneless, skinless chicken breasts, sliced",
+          "1 tbsp. cornstarch",
+          "1 tbsp. soy sauce",
+          "1 tbsp. sesame oil",
+          "2 tbsp. vegetable oil",
+          "2 cloves garlic, minced",
+          "1 inch piece ginger, minced",
+          "1 red bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "1 cup broccoli florets",
+          "1/2 cup hoisin sauce",
+          "2 tbsp. rice vinegar",
+          "2 tbsp. honey"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": "Joe Goldberg",
+    "experienceYears": 20,
+    "recipeCount": 120,
+    "likes": 10000,
+    "shortDescription": "Jane Smith is an award-winning chef who has been specializing in Italian cuisine for the past 15 years. She has worked at several top restaurants in Italy and the United States, and has gained a reputation for her exceptional dishes that showcase the flavors and traditions of Italy. Jane is particularly skilled at making handmade pasta, and is known for her classic spaghetti carbonara and lasagna recipes. Her passion for Italian cuisine shines through in her cooking, and she is committed to using only the freshest, highest-quality ingredients in all of her dishes. With 50 recipes under her belt and 10,000 likes from her loyal followers, Jane continues to inspire and delight food lovers around the world.",
+    "pictureUrl": "https://i.ibb.co/Tq4SHTY/3.jpg",
+    "recipes": [
+      {
+        "recipeName": "Spaghetti Bolognese",
+        "recipePictureUrl": "https://i.ibb.co/TYxvXcp/1.jpg",
+        "description": "A classic Italian dish with spaghetti, tomato sauce, and ground beef.",
+        "rating": 4.7,
+        "ingredients": [
+          "1 lb. spaghetti",
+          "1 lb. ground beef",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 can (28 oz.) crushed tomatoes",
+          "1 can (6 oz.) tomato paste",
+          "1 cup water",
+          "2 tbsp. olive oil",
+          "1 tsp. dried basil",
+          "1 tsp. dried oregano",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "recipeName": "Grilled Salmon",
+        "recipePictureUrl": "https://i.ibb.co/sJMJncj/2.jpg",
+        "description": "A healthy and flavorful dish with grilled salmon, asparagus, and lemon.",
+        "rating": 4.9,
+        "ingredients": [
+          "4 salmon fillets",
+          "1 lb. asparagus",
+          "2 lemons, sliced",
+          "2 cloves garlic, minced",
+          "2 tbsp. olive oil",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "recipeName": "Beef Stir Fry",
+        "recipePictureUrl": "https://i.ibb.co/XJdbPTH/3.jpg",
+        "description": "A quick and easy stir fry with beef, vegetables, and a savory sauce.",
+        "rating": 4.5,
+        "ingredients": [
+          "1 lb. beef sirloin, sliced",
+          "1 tbsp. cornstarch",
+          "1 tbsp. soy sauce",
+          "1 tbsp. sesame oil",
+          "2 tbsp. vegetable oil",
+          "2 cloves garlic, minced",
+          "1 inch piece ginger, minced",
+          "1 red bell pepper, sliced",
+          "1 yellow onion, sliced",
+          "1 cup broccoli florets",
+          "1/2 cup beef broth",
+          "2 tbsp. oyster sauce",
+          "1 tsp. sugar"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Andre Russell",
+    "experienceYears": 12,
+    "recipeCount": 60,
+    "likes": 5000,
+    "shortDescription": "Jane Smith is an award-winning chef who has been specializing in Italian cuisine for the past 15 years. She has worked at several top restaurants in Italy and the United States, and has gained a reputation for her exceptional dishes that showcase the flavors and traditions of Italy. Jane is particularly skilled at making handmade pasta, and is known for her classic spaghetti carbonara and lasagna recipes. Her passion for Italian cuisine shines through in her cooking, and she is committed to using only the freshest, highest-quality ingredients in all of her dishes. With 50 recipes under her belt and 10,000 likes from her loyal followers, Jane continues to inspire and delight food lovers around the world.",
+    "pictureUrl": "https://i.ibb.co/TM61242/4.jpg",
+    "recipes": [
+      {
+        "recipeName": "Enchiladas Verdes",
+        "recipePictureUrl": "https://i.ibb.co/k5HgVbn/4.jpg",
+        "description": "A traditional Mexican dish with chicken, tortillas, and green salsa.",
+        "rating": 4.8,
+        "ingredients": [
+          "12 corn tortillas",
+          "2 cups cooked and shredded chicken",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 lb. tomatillos, husked and rinsed",
+          "2 serrano peppers",
+          "1 bunch cilantro",
+          "1 cup chicken broth",
+          "1 tbsp. vegetable oil",
+          "Salt and pepper"
+        ]
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "recipePictureUrl": "https://i.ibb.co/wrSQN95/5.jpg",
+        "description": "A hearty Russian dish with beef, mushrooms, and sour cream sauce.",
+        "rating": 4.5,
+        "ingredients": [
+          "1 lb. beef sirloin, sliced",
+          "8 oz. mushrooms, sliced",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 cup beef broth",
+          "1/2 cup sour cream",
+          "2 tbsp. flour",
+          "2 tbsp. butter",
+          "1 tbsp. vegetable oil",
+          "Salt and pepper",
+          "1 lb. egg noodles, cooked"
+        ]
+      },
+      {
+        "recipeName": "Pesto Pasta",
+        "recipePictureUrl": "https://i.ibb.co/dM9gRyR/6.jpg",
+        "description": "A simple and delicious Italian dish with pasta and basil pesto.",
+        "rating": 4.7,
+        "ingredients": [
+          "1 lb. linguine",
+          "1 cup fresh basil leaves",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup olive oil",
+          "1/3 cup pine nuts",
+          "3 cloves garlic, minced",
+          "Salt and pepper"
+        ]
+      }
+    ]
+  }
+  
+]
+  

@@ -13,8 +13,15 @@ app.get('/', (req, res) => {
     res.send('Chef Recipe Hunter is running')
 })
 
-app.get('/chef-data', (req, res) => {
+app.get('/chefData', (req, res) => {
     res.send(chefData);
+})
+
+app.get('/chefData/:id', (req, res)=> {
+    const id = req.params.id;
+    console.log(id)
+    const selectedChefData = chefData.find(c=> c.id === parseInt(id))
+    res.send(selectedChefData)
 })
 
 
